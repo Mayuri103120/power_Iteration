@@ -1,6 +1,6 @@
 # power_Iteration
 
-
+![PI](https://user-images.githubusercontent.com/73753025/210684806-07b4fd71-a75f-492b-8d63-e068765db61e.png)
 
 The density function of the empirical density of eigenvalues when the dimensions of the matrix tend to 
 infinity with finite aspect ratio, which is what you are approximating with the histograms, has a closed 
