@@ -1,4 +1,5 @@
 # power_Iteration
+Implementation of PI on wishart matrices
 
 ![PI](https://user-images.githubusercontent.com/73753025/210684806-07b4fd71-a75f-492b-8d63-e068765db61e.png)
 
